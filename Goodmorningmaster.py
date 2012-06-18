@@ -1,6 +1,6 @@
 print "Good morning master! I trust that you have eaten breakfeast?"
 print "*" * 28
-print "1. Yes."
+print "1. Yes I have!"
 print "2. No I haven't."
 print "*" * 28
 breakfeast = input()
