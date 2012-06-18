@@ -619,13 +619,4 @@ if breakfeast == 2:
                     if gd == 1:
                         quit
 
-else:
-    print "I'm sorry I do not understand."
-    print "Please restart the program."
-    print "*" * 28
-    print "1. Alright. Sorry about that!"
-    print "*" * 28
-    sorry = input()
 
-    if sorry == 1:
-        quit
